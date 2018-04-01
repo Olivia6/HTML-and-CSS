@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>Olivia的第一个网页</title>
+	<title>Olivia的第一个网站</title>
 	<style type="text/css">
 		.welcome{font-size:29px; font-family: "Arial Unicode MS";}
 
