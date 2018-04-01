@@ -207,8 +207,7 @@
 	<br><br><br>
 	<form action="save.php" method="post" >
 		<label for="text">头像</label>&nbsp;&nbsp;
-			<input type="submit" value="选择文件"  name="submit" />
-			<label for="text">未选择任何文件</label>
+			<input type="file" value="选择文件"  name="file" />
 		<br>
 		<label for="text">昵称</label>&nbsp;&nbsp;
   			<input type="昵称" name="olivia">
